@@ -7,3 +7,4 @@ remote_theme: pages-themes/dinky@v0.2.0
 # cette option est nécessaire pour que GitHub utilise les thèmes
 plugins:
   - jekyll-remote-theme
+theme: jekyll-theme-minimal
