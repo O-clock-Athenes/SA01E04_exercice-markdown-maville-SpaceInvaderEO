@@ -10,7 +10,7 @@ Charmant et agréable à vivre, le village est proche de toutes les commodités 
 - La montagne
 - Montpellier (via le tram)
 
-Il est maintenant temps de présenter les alentours :
+Il est maintenant temps de présenter les alentours ⬇️
 
 [Retour à l'index](./index.md)
 
