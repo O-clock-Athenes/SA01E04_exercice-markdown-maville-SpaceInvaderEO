@@ -13,20 +13,25 @@ On ne peut pas parler de l'Hérault sans parler de sa capitale, <ins>Montpellier
 Voici quelques lieu incontournables de Montpellier :
 
 -> Le Peyrou
+
 ![Peyrou](./peyrou-montpellier.jpg)
 
 -> La Comédie
+
 ![Place de la comédie](./Place-de-la-Comédie-Montpellier.jpg)
 
 L'Hérault c'est aussi ses plages, ses vallées et son arrière-pays, quelques lieux symboliques en vrac :
 
 -> La Grande-Motte
+
 ![Grande-Motte](./grande-motte.jpg)
 
 -> Le Pic Saint-Loup
+
 ![Pic Saint-Loup](./pic-saint-loup-gd.jpg)
 
 -> Le lac du Salagou
+
 ![Lac du Salagou](./Lac-Salagou.jpg)
 
 Pour la suite de la visite ⬇️
