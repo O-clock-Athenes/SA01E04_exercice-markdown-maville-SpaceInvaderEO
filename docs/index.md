@@ -1,9 +1,14 @@
-# Ma ville, ma région
+## Mon village, mon département, ma région
 
-Bienvenue dans ce mini-site où je vais vous décrire ma ville, son département et sa région.
+Bienvenue dans ce mini-site où je vais vous parler de Jacou, l'Hérault et l'Occitanie ☀️
 
-_A vous de jouer_
+[Jacou, le calme à côté de Montpellier](./ma-ville.md)
+
+[L'Hérault, diverse et variée](./mon-departement.md)
+
+[L'Occitanie, splendeur du sud](./ma-region.md)
 
 ---
 
-Fait avec ❤️ par _xxx_
+Fait avec ❤️ par SpaceInvaderEO👽
+
